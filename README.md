@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashjanalajeeli
-- 👀 I’m interested in Design, Develper, programming,
+- 👀 I’m interested in Design, Developer, programming,
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me email: ashjanalajeeli123@gmail.com
