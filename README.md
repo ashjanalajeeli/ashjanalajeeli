@@ -80,3 +80,52 @@
 [![](https://visitcount.itsvg.in/api?id=ashjanalajeeli&icon=7&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!-- 3school-->
+<h1 align="center">W3Schools Progress</h1>
+
+<p align="center">From W3Schools Path</p>
+
+<div align="center">
+
+<!-- HTML -->
+<svg width="120" height="120">
+  <circle cx="60" cy="60" r="50" stroke="#eee" stroke-width="10" fill="none"/>
+  <circle cx="60" cy="60" r="50" stroke="#f16529" stroke-width="10" fill="none"
+    stroke-dasharray="314"
+    stroke-dashoffset="254"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20">19%</text>
+</svg>
+<p>HTML</p>
+
+<!-- SQL -->
+<svg width="120" height="120">
+  <circle cx="60" cy="60" r="50" stroke="#eee" stroke-width="10" fill="none"/>
+  <circle cx="60" cy="60" r="50" stroke="#00758f" stroke-width="10" fill="none"
+    stroke-dasharray="314"
+    stroke-dashoffset="292"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20">7%</text>
+</svg>
+<p>SQL</p>
+
+<!-- Bootstrap -->
+<svg width="120" height="120">
+  <circle cx="60" cy="60" r="50" stroke="#7952b3" stroke-width="10" fill="none"
+    stroke-dasharray="314"
+    stroke-dashoffset="301"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20">4%</text>
+</svg>
+<p>Bootstrap</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
