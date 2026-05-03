@@ -118,6 +118,38 @@
 </svg>
 <p>Bootstrap</p>
 
+<!-- JS -->
+<svg width="120" height="120">
+  <circle cx="60" cy="60" r="50" stroke="#eee" stroke-width="10" fill="none"/>
+  <circle cx="60" cy="60" r="50" stroke="#f16529" stroke-width="10" fill="none"
+    stroke-dasharray="314"
+    stroke-dashoffset="254"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20">19%</text>
+</svg>
+<p>JS</p>
+
+
+<!-- CSS -->
+<svg width="120" height="120">
+  <circle cx="60" cy="60" r="50" stroke="#eee" stroke-width="10" fill="none"/>
+  <circle cx="60" cy="60" r="50" stroke="#f16529" stroke-width="10" fill="none"
+    stroke-dasharray="314"
+    stroke-dashoffset="254"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20">19%</text>
+</svg>
+<p>CSS</p>
+
+
+<!-- Python -->
+<svg width="120" height="120">
+  <circle cx="60" cy="60" r="50" stroke="#eee" stroke-width="10" fill="none"/>
+  <circle cx="60" cy="60" r="50" stroke="#f16529" stroke-width="10" fill="none"
+    stroke-dasharray="314"
+    stroke-dashoffset="254"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20">19%</text>
+</svg>
+<p>Python</p>
+
 </div>
 
 
