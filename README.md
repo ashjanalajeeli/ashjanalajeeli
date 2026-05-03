@@ -82,77 +82,68 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<!-- 3school-->
-<h1 align="center">W3Schools Progress</h1>
-
-<p align="center">From W3Schools Path</p>
-
-<div align="center">
-
-<!-- HTML -->
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#eee" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50" stroke="#f16529" stroke-width="10" fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="254"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20">19%</text>
-</svg>
-<p>HTML</p>
-
-<!-- SQL -->
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#eee" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50" stroke="#00758f" stroke-width="10" fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="292"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20">7%</text>
-</svg>
-<p>SQL</p>
-
-<!-- Bootstrap -->
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#7952b3" stroke-width="10" fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="301"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20">4%</text>
-</svg>
-<p>Bootstrap</p>
-
-<!-- JS -->
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#eee" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50" stroke="#f16529" stroke-width="10" fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="254"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20">19%</text>
-</svg>
-<p>JS</p>
 
 
-<!-- CSS -->
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#eee" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50" stroke="#f16529" stroke-width="10" fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="254"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20">19%</text>
-</svg>
-<p>CSS</p>
+# My Progress 🚀
 
+## W3Schools Progress
 
-<!-- Python -->
-<svg width="120" height="120">
-  <circle cx="60" cy="60" r="50" stroke="#eee" stroke-width="10" fill="none"/>
-  <circle cx="60" cy="60" r="50" stroke="#f16529" stroke-width="10" fill="none"
-    stroke-dasharray="314"
-    stroke-dashoffset="254"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20">19%</text>
-</svg>
-<p>Python</p>
+### 🌐 Web Developer
+<table>
+  <tr>
+    <td align="center">
+      <p>HTML</p>
+      <svg width="100" height="100" viewBox="0 0 100 100">
+        <circle cx="50" cy="50" r="40" stroke="#eeeeee" stroke-width="8" fill="none" />
+        <circle cx="50" cy="50" r="40" stroke="#e34c26" stroke-width="8" fill="none" 
+                stroke-dasharray="251.2" stroke-dashoffset="203.4" transform="rotate(-90 50 50)" />
+        <text x="50" y="55" text-anchor="middle" font-family="Arial" font-size="15" fill="#333">19%</text>
+      </svg>
+    </td>
+    <td align="center">
+      <p>JS</p>
+      <svg width="100" height="100" viewBox="0 0 100 100">
+        <circle cx="50" cy="50" r="40" stroke="#eeeeee" stroke-width="8" fill="none" />
+        <circle cx="50" cy="50" r="40" stroke="#f7df1e" stroke-width="8" fill="none" 
+                stroke-dasharray="251.2" stroke-dashoffset="125.6" transform="rotate(-90 50 50)" />
+        <text x="50" y="55" text-anchor="middle" font-family="Arial" font-size="15" fill="#333">50%</text>
+      </svg>
+    </td>
+    <td align="center">
+      <p>CSS</p>
+      <svg width="100" height="100" viewBox="0 0 100 100">
+        <circle cx="50" cy="50" r="40" stroke="#eeeeee" stroke-width="8" fill="none" />
+        <circle cx="50" cy="50" r="40" stroke="#264de4" stroke-width="8" fill="none" 
+                stroke-dasharray="251.2" stroke-dashoffset="175.8" transform="rotate(-90 50 50)" />
+        <text x="50" y="55" text-anchor="middle" font-family="Arial" font-size="15" fill="#333">30%</text>
+      </svg>
+    </td>
+  </tr>
+</table>
 
-</div>
-
-
+### ⚙️ Backend & Frontend
+<table>
+  <tr>
+    <td align="center">
+      <p>API</p>
+      <svg width="100" height="100" viewBox="0 0 100 100">
+        <circle cx="50" cy="50" r="40" stroke="#eeeeee" stroke-width="8" fill="none" />
+        <circle cx="50" cy="50" r="40" stroke="#00b4d8" stroke-width="8" fill="none" 
+                stroke-dasharray="251.2" stroke-dashoffset="226" transform="rotate(-90 50 50)" />
+        <text x="50" y="55" text-anchor="middle" font-family="Arial" font-size="15" fill="#333">10%</text>
+      </svg>
+    </td>
+    <td align="center">
+      <p>Database</p>
+      <svg width="100" height="100" viewBox="0 0 100 100">
+        <circle cx="50" cy="50" r="40" stroke="#eeeeee" stroke-width="8" fill="none" />
+        <circle cx="50" cy="50" r="40" stroke="#336791" stroke-width="8" fill="none" 
+                stroke-dasharray="251.2" stroke-dashoffset="200" transform="rotate(-90 50 50)" />
+        <text x="50" y="55" text-anchor="middle" font-family="Arial" font-size="15" fill="#333">20%</text>
+      </svg>
+    </td>
+  </tr>
+</table>
 
 
 
