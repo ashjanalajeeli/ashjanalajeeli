@@ -58,7 +58,15 @@
 
 > معاينة الهاتف ملتقطة من واجهة Flutter الفعلية؛ يفتح النقر على الصورة مستودع Ekfalni، إذ لا يوجد رابط تطبيق منشور.
 
-- [**Marketing**](https://github.com/ashjanalajeeli/marketing) — مستودع المشروع.
+### Marketing
+
+<p align="center">
+  <a href="https://github.com/ashjanalajeeli/marketing">
+    <img src="https://img.shields.io/badge/Marketing-README-8B5CF6?style=for-the-badge&amp;logo=markdown&amp;logoColor=C4B5FD&amp;labelColor=17131F" alt="بطاقة مشروع Marketing — README" />
+  </a>
+</p>
+
+<p align="center"><sub>مستودع التوثيق (README) فقط؛ لا توجد واجهة تطبيق منشورة لمعاينتها.</sub></p>
 
 ---
 
