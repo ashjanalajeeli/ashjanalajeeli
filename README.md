@@ -44,9 +44,27 @@
 
 > الأشرطة تقارن أعداد الدروس المسجّلة في هذه القائمة فقط؛ ولا تعبّر عن نسبة إكمال المنهج أو مستوى الإتقان.
 
-## 04 / المشاريع
+## 04 / مشاريعي
 
-- [**Marketing**](https://github.com/ashjanalajeeli/marketing) — مساحة عمل لمشاريع وأفكار التسويق.
+### Ekfalni — تطبيق الكفالة والتبرعات
+
+<div align="center">
+  <a href="https://github.com/ashjanalajeeli/ekfalninew">
+    <img src="./assets/projects/ekfalni-home-phone.png" alt="لقطة فعلية للواجهة الرئيسية لتطبيق Ekfalni على الهاتف" width="260" />
+  </a>
+  <br />
+  <strong>واجهة الهاتف</strong>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ashjanalajeeli/ekfalninew">
+    <img src="./assets/projects/ekfalni-home-tablet.png" alt="لقطة فعلية للواجهة الرئيسية لتطبيق Ekfalni على الجهاز اللوحي" width="520" />
+  </a>
+  <br />
+  <strong>واجهة الجهاز اللوحي</strong>
+</div>
+
+> المعاينتان ملتقطتان من واجهة Flutter الموجودة في المشروع؛ يفتح النقر على كل صورة مستودع Ekfalni، إذ لا يوجد رابط تطبيق منشور.
 
 ---
 
