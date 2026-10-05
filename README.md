@@ -1,154 +1,79 @@
-# Hi, I'm Ashjan✨
+<div align="center">
 
-💻 Flutter & Dart developer | UI/UX Designer  
-🌐 Building web & mobile apps | Using modern libraries  
-🎨 Passionate about creating smooth and engaging user experiences  
+# أهلاً، أنا أشجان العجيلي
 
-## Tech Stack 🛠️
-- **Languages:** Dart, HTML, CSS, JavaScript
-- **Frameworks:** Flutter, React
-- **Design:** Figma, Adobe XD, Canva, photoshop
-- **Libraries:** Provider, GetX, Firebase, Riverpod
+### Flutter & Dart Developer · UI/UX Designer · Web & Mobile Builder
 
+أبني تجارب رقمية عملية وواجهات هادئة وسهلة الاستخدام، مع اهتمام بالتفاصيل وجودة تجربة المستخدم.
 
+[![GitHub](https://img.shields.io/badge/GitHub-ashjanalajeeli-181717?style=for-the-badge&logo=github)](https://github.com/ashjanalajeeli)
+[![Instagram](https://img.shields.io/badge/Instagram-ashjan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yani9.8.0)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashjanalajeeli123@gmail.com)
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ashjanalajeeli) 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yani9.8.0) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ashjanalajeeli) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ashjan ) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ashjanalajeeli)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ashjanalajeeli)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ashjanalajeeli) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ashjanalajeeli) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ashjanalajeeli) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/ashjanalajeeli) 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ashjanalajeeli) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashjanalajeeli123@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=flat-square&logo=framework7&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) 
-![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashjanalajeeli&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ashjanalajeeli&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashjanalajeeli&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashjanalajeeli&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashjanalajeeli&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## عني
 
+- أطور تطبيقات **Flutter** للويب والهواتف.
+- أصمم واجهات وتجارب مستخدم باستخدام **Figma** و**Adobe XD** و**Canva**.
+- أتعلم باستمرار وأحوّل تقدمي إلى بيانات واضحة قابلة للمتابعة.
+- أعمل على الجمع بين التصميم، البرمجة، والمنتج في تجربة واحدة متناسقة.
 
+## المهارات الأساسية
 
+| المجال | الأدوات والتقنيات |
+| --- | --- |
+| **التطبيقات** | Flutter · Dart · Provider · Riverpod · GetX |
+| **الويب** | HTML · CSS · JavaScript · React · Node.js |
+| **الخلفية والبيانات** | Firebase · REST APIs · SQLite · MySQL |
+| **التصميم** | Figma · Adobe XD · Canva · UI/UX |
+| **الأدوات** | Git · GitHub · VS Code |
 
-# My Progress 🚀
+## لوحة التقدم التعليمية
 
-## W3Schools Progress
+> بيانات هذه اللوحة مأخوذة مباشرة من مستودع [w3schools-progress](https://github.com/ashjanalajeeli/w3schools-progress)، وتُحدّث عند تعديل `progress.json`.
 
-### 🌐 Web Developer
-<table>
-  <tr>
-    <td align="center">
-      <p>HTML</p>
-      <svg width="100" height="100" viewBox="0 0 100 100">
-        <circle cx="50" cy="50" r="40" stroke="#eeeeee" stroke-width="8" fill="none" />
-        <circle cx="50" cy="50" r="40" stroke="#e34c26" stroke-width="8" fill="none" 
-                stroke-dasharray="251.2" stroke-dashoffset="203.4" transform="rotate(-90 50 50)" />
-        <text x="50" y="55" text-anchor="middle" font-family="Arial" font-size="15" fill="#333">19%</text>
-      </svg>
-    </td>
-    <td align="center">
-      <p>JS</p>
-      <svg width="100" height="100" viewBox="0 0 100 100">
-        <circle cx="50" cy="50" r="40" stroke="#eeeeee" stroke-width="8" fill="none" />
-        <circle cx="50" cy="50" r="40" stroke="#f7df1e" stroke-width="8" fill="none" 
-                stroke-dasharray="251.2" stroke-dashoffset="125.6" transform="rotate(-90 50 50)" />
-        <text x="50" y="55" text-anchor="middle" font-family="Arial" font-size="15" fill="#333">50%</text>
-      </svg>
-    </td>
-    <td align="center">
-      <p>CSS</p>
-      <svg width="100" height="100" viewBox="0 0 100 100">
-        <circle cx="50" cy="50" r="40" stroke="#eeeeee" stroke-width="8" fill="none" />
-        <circle cx="50" cy="50" r="40" stroke="#264de4" stroke-width="8" fill="none" 
-                stroke-dasharray="251.2" stroke-dashoffset="175.8" transform="rotate(-90 50 50)" />
-        <text x="50" y="55" text-anchor="middle" font-family="Arial" font-size="15" fill="#333">30%</text>
-      </svg>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-### ⚙️ Backend & Frontend
-<table>
-  <tr>
-    <td align="center">
-      <p>API</p>
-      <svg width="100" height="100" viewBox="0 0 100 100">
-        <circle cx="50" cy="50" r="40" stroke="#eeeeee" stroke-width="8" fill="none" />
-        <circle cx="50" cy="50" r="40" stroke="#00b4d8" stroke-width="8" fill="none" 
-                stroke-dasharray="251.2" stroke-dashoffset="226" transform="rotate(-90 50 50)" />
-        <text x="50" y="55" text-anchor="middle" font-family="Arial" font-size="15" fill="#333">10%</text>
-      </svg>
-    </td>
-    <td align="center">
-      <p>Database</p>
-      <svg width="100" height="100" viewBox="0 0 100 100">
-        <circle cx="50" cy="50" r="40" stroke="#eeeeee" stroke-width="8" fill="none" />
-        <circle cx="50" cy="50" r="40" stroke="#336791" stroke-width="8" fill="none" 
-                stroke-dasharray="251.2" stroke-dashoffset="200" transform="rotate(-90 50 50)" />
-        <text x="50" y="55" text-anchor="middle" font-family="Arial" font-size="15" fill="#333">20%</text>
-      </svg>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ashjanalajeeli/w3schools-progress">
+  <img src="./assets/progress-dashboard.svg" alt="لوحة تقدم التعلم" width="820" />
+</a>
 
+</div>
 
+| المسار | الدروس المكتملة | النسبة من الإجمالي |
+| --- | ---: | ---: |
+| HTML | **19** | **58%** |
+| SQL | **7** | **21%** |
+| Bootstrap | **4** | **12%** |
+| Python | **3** | **9%** |
+| **الإجمالي** | **33** | **100%** |
 
+[فتح مستودع لوحة التقدم ←](https://github.com/ashjanalajeeli/w3schools-progress)
 
+## مشاريعي
 
+- [**W3Schools Progress**](https://github.com/ashjanalajeeli/w3schools-progress) — لوحة مرئية لمتابعة التعلم والإنجاز.
+- [**Marketing**](https://github.com/ashjanalajeeli/marketing) — مساحة عمل لمشاريع وأفكار التسويق.
 
+## تواصل معي
 
+إذا كان لديك مشروع، فكرة، أو فرصة تعاون في التطبيقات أو التصميم، يسعدني التواصل.
 
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-ashjan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yani9.8.0)
+[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Ashjanalajeeli)
+[![Email](https://img.shields.io/badge/Email-راسلني-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashjanalajeeli123@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*أتعلم، أبني، وأحسّن — خطوة بعد خطوة.*
+
+</div>
