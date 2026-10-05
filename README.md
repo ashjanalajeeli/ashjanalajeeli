@@ -21,41 +21,23 @@
 - أتعلم باستمرار وأحوّل تقدمي إلى بيانات واضحة قابلة للمتابعة.
 - أعمل على الجمع بين التصميم، البرمجة، والمنتج في تجربة واحدة متناسقة.
 
-## المهارات الأساسية
+## المهارات والتعلّم
 
-| المجال | الأدوات والتقنيات |
-| --- | --- |
-| **التطبيقات** | Flutter · Dart · Provider · Riverpod · GetX |
-| **الويب** | HTML · CSS · JavaScript · React · Node.js |
-| **الخلفية والبيانات** | Firebase · REST APIs · SQLite · MySQL |
-| **التصميم** | Figma · Adobe XD · Canva · UI/UX |
-| **الأدوات** | Git · GitHub · VS Code |
-
-## لوحة التقدم التعليمية
-
-> بيانات هذه اللوحة مأخوذة مباشرة من مستودع [w3schools-progress](https://github.com/ashjanalajeeli/w3schools-progress)، وتُحدّث عند تعديل `progress.json`.
+تظهر المهارات ومسارات التعلّم هنا داخل الملف الشخصي، في لوحة رسوم بيانية واحدة بدل الجداول والصفحات المنفصلة.
 
 <div align="center">
 
-<a href="https://github.com/ashjanalajeeli/w3schools-progress">
-  <img src="./assets/progress-dashboard.svg" alt="لوحة تقدم التعلم" width="820" />
-</a>
+<img src="./assets/progress-dashboard.svg" alt="مخططان لمهارات أشجان العجيلي ومسارات التعلّم والدروس المنجزة" width="100%" />
 
 </div>
 
-| المسار | الدروس المكتملة | النسبة من الإجمالي |
-| --- | ---: | ---: |
-| HTML | **19** | **58%** |
-| SQL | **7** | **21%** |
-| Bootstrap | **4** | **12%** |
-| Python | **3** | **9%** |
-| **الإجمالي** | **33** | **100%** |
+> مخطط المهارات يقارن عدد التقنيات المذكورة ضمن كل مجال، ولا يعبّر عن مستوى الإتقان. ومخطط التعلّم يعرض أعداد الدروس المنجزة ونسب توزيعها.
 
-[فتح مستودع لوحة التقدم ←](https://github.com/ashjanalajeeli/w3schools-progress)
+مصدر بيانات التعلّم: [مستودع W3Schools Progress](https://github.com/ashjanalajeeli/w3schools-progress) · [ملف progress.json](https://github.com/ashjanalajeeli/w3schools-progress/blob/main/progress.json)
 
 ## مشاريعي
 
-- [**W3Schools Progress**](https://github.com/ashjanalajeeli/w3schools-progress) — لوحة مرئية لمتابعة التعلم والإنجاز.
+- [**W3Schools Progress**](https://github.com/ashjanalajeeli/w3schools-progress) — بيانات ومصدر لوحة التقدّم المضمنة في هذا الملف الشخصي.
 - [**Marketing**](https://github.com/ashjanalajeeli/marketing) — مساحة عمل لمشاريع وأفكار التسويق.
 
 ## تواصل معي
