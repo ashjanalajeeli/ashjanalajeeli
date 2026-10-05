@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/profile-hero.svg" alt="رسم تقني تجريدي بنفسجي داكن يعكس التصميم وتطوير التطبيقات" width="100%" />
+
 # أشجان العجيلي
 
 ### مطوّرة Flutter & Dart · مصمّمة UI/UX
@@ -25,11 +27,11 @@
 
 ## 02 / المهارات التقنية
 
-- **التطبيقات:** `Flutter` · `Dart` · `Provider` · `Riverpod` · `GetX`
-- **الويب:** `HTML` · `CSS` · `JavaScript` · `React` · `Node.js`
-- **الخلفية والبيانات:** `Firebase` · `REST APIs` · `SQLite` · `MySQL`
+- **Flutter & Dart:** `Flutter` · `Dart` · `Provider` · `Riverpod` · `GetX`
+- **تطوير الويب:** `HTML` · `CSS` · `JavaScript` · `React` · `Node.js`
+- **البيانات وواجهات API:** `Firebase` · `REST APIs` · `SQLite` · `MySQL`
 - **التصميم:** `Figma` · `Adobe XD` · `Canva` · `UI/UX`
-- **الأدوات:** `Git` · `GitHub` · `VS Code`
+- **أدوات العمل:** `Git` · `GitHub` · `VS Code`
 
 ## 03 / التعلّم بالأرقام
 
