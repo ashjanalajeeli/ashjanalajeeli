@@ -56,15 +56,9 @@
   <strong>واجهة الهاتف</strong>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ashjanalajeeli/ekfalninew">
-    <img src="./assets/projects/ekfalni-home-tablet.png" alt="لقطة فعلية للواجهة الرئيسية لتطبيق Ekfalni على الجهاز اللوحي" width="520" />
-  </a>
-  <br />
-  <strong>واجهة الجهاز اللوحي</strong>
-</div>
+> معاينة الهاتف ملتقطة من واجهة Flutter الفعلية؛ يفتح النقر على الصورة مستودع Ekfalni، إذ لا يوجد رابط تطبيق منشور.
 
-> المعاينتان ملتقطتان من واجهة Flutter الموجودة في المشروع؛ يفتح النقر على كل صورة مستودع Ekfalni، إذ لا يوجد رابط تطبيق منشور.
+- [**Marketing**](https://github.com/ashjanalajeeli/marketing) — مستودع المشروع.
 
 ---
 
