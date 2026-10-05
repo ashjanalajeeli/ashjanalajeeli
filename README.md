@@ -1,63 +1,55 @@
 <div align="center">
 
-# أهلاً، أنا أشجان العجيلي
+# أشجان العجيلي
 
-### Flutter & Dart Developer · UI/UX Designer · Web & Mobile Builder
+### مطوّرة Flutter & Dart · مصمّمة UI/UX
 
-أبني تجارب رقمية عملية وواجهات هادئة وسهلة الاستخدام، مع اهتمام بالتفاصيل وجودة تجربة المستخدم.
+أصمّم واجهات واضحة وأطوّر تجارب رقمية للويب والهواتف، مع اهتمام بالتفاصيل واتساق التجربة من الفكرة إلى المنتج.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ashjanalajeeli-181717?style=for-the-badge&logo=github)](https://github.com/ashjanalajeeli)
-[![Instagram](https://img.shields.io/badge/Instagram-ashjan-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yani9.8.0)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashjanalajeeli123@gmail.com)
+![Flutter & Dart](https://img.shields.io/badge/FLUTTER-DART-8B5CF6?style=flat-square&logo=flutter&logoColor=white&labelColor=17131F)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-DESIGN-8B5CF6?style=flat-square&logo=figma&logoColor=white&labelColor=17131F)
+![Web & Mobile](https://img.shields.io/badge/WEB-MOBILE-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white&labelColor=17131F)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-17131F?style=flat-square&logo=github&logoColor=C4B5FD)](https://github.com/ashjanalajeeli)
+[![Instagram](https://img.shields.io/badge/Instagram-ashjan-17131F?style=flat-square&logo=instagram&logoColor=C4B5FD)](https://instagram.com/yani9.8.0)
+[![Medium](https://img.shields.io/badge/Medium-Articles-17131F?style=flat-square&logo=medium&logoColor=C4B5FD)](https://medium.com/@Ashjanalajeeli)
+[![Email](https://img.shields.io/badge/Email-Contact-17131F?style=flat-square&logo=gmail&logoColor=C4B5FD)](mailto:ashjanalajeeli123@gmail.com)
 
 </div>
 
 ---
 
-## عني
+## 01 / نبذة
 
-- أطور تطبيقات **Flutter** للويب والهواتف.
-- أصمم واجهات وتجارب مستخدم باستخدام **Figma** و**Adobe XD** و**Canva**.
-- أتعلم باستمرار وأحوّل تقدمي إلى بيانات واضحة قابلة للمتابعة.
-- أعمل على الجمع بين التصميم، البرمجة، والمنتج في تجربة واحدة متناسقة.
+أجمع بين التصميم والبرمجة لبناء واجهات وتجارب استخدام عملية وهادئة. أعمل على تطبيقات **Flutter** للويب والهواتف، وأستخدم أدوات التصميم لتحويل الأفكار إلى منتجات رقمية متناسقة.
 
-## المهارات والتعلّم
+## 02 / المهارات التقنية
 
-- **التطبيقات:** Flutter · Dart · Provider · Riverpod · GetX
-- **الويب:** HTML · CSS · JavaScript · React · Node.js
-- **الخلفية والبيانات:** Firebase · REST APIs · SQLite · MySQL
-- **التصميم:** Figma · Adobe XD · Canva · UI/UX
-- **الأدوات:** Git · GitHub · VS Code
+- **التطبيقات:** `Flutter` · `Dart` · `Provider` · `Riverpod` · `GetX`
+- **الويب:** `HTML` · `CSS` · `JavaScript` · `React` · `Node.js`
+- **الخلفية والبيانات:** `Firebase` · `REST APIs` · `SQLite` · `MySQL`
+- **التصميم:** `Figma` · `Adobe XD` · `Canva` · `UI/UX`
+- **الأدوات:** `Git` · `GitHub` · `VS Code`
 
-**الدروس المسجّلة — 33 درسًا**
+## 03 / التعلّم بالأرقام
 
-- **HTML** `██████████` 19
-- **SQL** `████░░░░░░` 7
-- **Bootstrap** `██░░░░░░░░` 4
-- **Python** `██░░░░░░░░` 3
+**33 درسًا مسجّلًا** عبر المسارات التالية:
 
-> الأشرطة للمقارنة بين أعداد الدروس المسجّلة في هذه المسارات فقط؛ ولا تمثل نسبة إكمال المنهج أو مستوى الإتقان.
+- ![HTML · 19 درسًا](https://img.shields.io/badge/HTML-19-8B5CF6?style=flat-square&logo=html5&logoColor=white&labelColor=17131F) `██████████`
+- ![SQL · 7 دروس](https://img.shields.io/badge/SQL-7-8B5CF6?style=flat-square&logo=mysql&logoColor=white&labelColor=17131F) `████░░░░░░`
+- ![Bootstrap · 4 دروس](https://img.shields.io/badge/Bootstrap-4-8B5CF6?style=flat-square&logo=bootstrap&logoColor=white&labelColor=17131F) `██░░░░░░░░`
+- ![Python · 3 دروس](https://img.shields.io/badge/Python-3-8B5CF6?style=flat-square&logo=python&logoColor=white&labelColor=17131F) `██░░░░░░░░`
 
-## مشاريعي
+> الأشرطة تقارن أعداد الدروس المسجّلة في هذه القائمة فقط؛ ولا تعبّر عن نسبة إكمال المنهج أو مستوى الإتقان.
+
+## 04 / المشاريع
 
 - [**Marketing**](https://github.com/ashjanalajeeli/marketing) — مساحة عمل لمشاريع وأفكار التسويق.
 
-## تواصل معي
-
-إذا كان لديك مشروع، فكرة، أو فرصة تعاون في التطبيقات أو التصميم، يسعدني التواصل.
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-ashjan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yani9.8.0)
-[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@Ashjanalajeeli)
-[![Email](https://img.shields.io/badge/Email-راسلني-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashjanalajeeli123@gmail.com)
-
-</div>
-
 ---
 
 <div align="center">
 
-*أتعلم، أبني، وأحسّن — خطوة بعد خطوة.*
+*تفاصيل مدروسة · واجهات هادئة · تجارب رقمية متناسقة*
 
 </div>
