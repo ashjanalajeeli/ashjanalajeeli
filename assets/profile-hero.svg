@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">هوية تقنية بنفسجية لأشجان العجيلي</title>
-  <desc id="desc">رسم تجريدي يضم حرفي A وخطوطًا مضيئة وجهازًا ولوحة شيفرة، على خلفية كحلية داكنة.</desc>
+  <desc id="desc">رسم تجريدي كحلي وبنفسجي يضم حرفي A ومسارات تقنية ونوافذ شيفرة، مع زخارف منسجمة مع البنر المقترح.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#090A13"/>
-      <stop offset="0.62" stop-color="#101020"/>
-      <stop offset="1" stop-color="#17102B"/>
+      <stop stop-color="#070B16"/>
+      <stop offset="0.58" stop-color="#101329"/>
+      <stop offset="1" stop-color="#17102E"/>
     </linearGradient>
     <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#C4B5FD"/>
@@ -23,6 +23,9 @@
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
       <path d="M30 0H0V30" fill="none" stroke="#B9A3FF" stroke-opacity="0.075" stroke-width="1"/>
     </pattern>
+    <pattern id="detail-dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#C7B5FF" opacity="0.2"/>
+    </pattern>
     <filter id="soft-glow" x="-80%" y="-80%" width="260%" height="260%">
       <feGaussianBlur stdDeviation="12"/>
     </filter>
@@ -30,7 +33,9 @@
 
   <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
   <rect width="1200" height="280" rx="24" fill="url(#grid)" opacity="0.55"/>
+  <rect x="850" y="34" width="298" height="210" rx="18" fill="url(#detail-dots)" opacity="0.72"/>
   <ellipse cx="884" cy="142" rx="315" ry="190" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="278" rx="23" fill="none" stroke="#7781A7" stroke-opacity="0.22"/>
   <path d="M0 226C178 166 282 274 459 210S741 108 904 171s209 76 296 20" fill="none" stroke="url(#violet)" stroke-opacity="0.38" stroke-width="1.5"/>
   <path d="M0 246C186 184 303 286 478 226S751 130 913 190s202 72 287 23" fill="none" stroke="#A78BFA" stroke-opacity="0.18" stroke-width="1"/>
 
@@ -52,6 +57,11 @@
   <circle cx="1082" cy="76" r="5" fill="#A78BFA"/>
   <circle cx="1015" cy="224" r="4" fill="#7C3AED"/>
   <circle cx="651" cy="196" r="12" fill="#8B5CF6" opacity="0.35" filter="url(#soft-glow)"/>
+
+  <g transform="translate(1081 35)">
+    <rect width="66" height="38" rx="11" fill="#241A46" stroke="#AD8BFF" stroke-opacity="0.65"/>
+    <text x="33" y="25" text-anchor="middle" fill="#E4D9FF" font-family="Arial, sans-serif" font-size="18" font-weight="700">&lt;/&gt;</text>
+  </g>
 
   <g>
     <rect x="690" y="54" width="152" height="190" rx="24" fill="#080A12" stroke="#A78BFA" stroke-opacity="0.72" stroke-width="2"/>
