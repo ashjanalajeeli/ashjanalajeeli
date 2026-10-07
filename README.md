@@ -17,6 +17,8 @@
 [![Medium](https://img.shields.io/badge/Medium-Articles-17131F?style=flat-square&logo=medium&logoColor=C4B5FD)](https://medium.com/@Ashjanalajeeli)
 [![Email](https://img.shields.io/badge/Email-Contact-17131F?style=flat-square&logo=gmail&logoColor=C4B5FD)](mailto:ashjanalajeeli123@gmail.com)
 
+[![عرض المشاريع](https://img.shields.io/badge/VIEW-PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=17131F)](#04--مشاريعي)
+
 </div>
 
 ---
