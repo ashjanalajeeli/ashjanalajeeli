@@ -77,9 +77,10 @@
       <a href="https://github.com/ashjanalajeeli/marketing">↗ استكشف المشروع</a>
     </td>
     <td width="33%" valign="top">
-      <h3>المشاريع القادمة</h3>
-      <p>أعمل على تجارب جديدة تجمع بين تطبيقات الهاتف، الواجهات العملية، والتفاصيل البصرية المدروسة.</p>
-      <p><code>Build</code> <code>Design</code> <code>Improve</code></p>
+      <h3>Yani</h3>
+      <p>منصة ذكية لإدارة مشاريع البرمجة، تحوّل فكرة المشروع وملفاته إلى تحليل وRoadmap ومهام قابلة للتنفيذ.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>AI</code></p>
+      <a href="https://github.com/ashjanalajeeli/yani-follow-projects">↗ استكشف المشروع</a>
     </td>
   </tr>
 </table>
