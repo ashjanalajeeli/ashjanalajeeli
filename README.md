@@ -58,37 +58,77 @@
 
 <div dir="rtl" align="right">
 
-## 03 / مشاريع مختارة
+## 03 / منصات الويب
+
+مشاريع الويب والمنصات الرقمية.
 
 </div>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/ashjanalajeeli/ekfalninew"><img src="./assets/projects/ekfalni-home-phone.png" alt="Ekfalni — تطبيق الكفالة والتبرعات" width="100%" /></a>
-      <h3>Ekfalni</h3>
-      <p>تطبيق Flutter للكفالة والتبرعات، بواجهة تركّز على الوضوح وسهولة الوصول للمبادرات.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>UI/UX</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Marketing</h3>
-      <p>مساحة توثيق ومحتوى تسويقي منظّمة بهوية بصرية هادئة، مع اهتمام بالتسلسل والوضوح.</p>
-      <p><code>Content</code> <code>Design</code> <code>README</code></p>
-      <a href="https://github.com/ashjanalajeeli/marketing">↗ استكشف المشروع</a>
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://github.com/ashjanalajeeli/yani-follow-projects"><img src="./assets/projects/yani-interface.jpg" alt="واجهة منصة Yani لإدارة وتحليل مشاريع البرمجة" width="100%" /></a>
       <h3>Yani</h3>
       <p>منصة ذكية لإدارة مشاريع البرمجة، تحوّل فكرة المشروع وملفاته إلى تحليل وRoadmap ومهام قابلة للتنفيذ.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>AI</code></p>
+      <p><strong>الأدوات المستخدمة</strong></p>
+      <p>
+        <img src="https://cdn.simpleicons.org/react/61DAFB" width="26" alt="React" />
+        <img src="https://cdn.simpleicons.org/typescript/3178C6" width="26" alt="TypeScript" />
+        <img src="https://cdn.simpleicons.org/tanstack/FF4154" width="26" alt="TanStack" />
+        <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="26" alt="Supabase" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="26" alt="Tailwind CSS" />
+        <img src="https://cdn.simpleicons.org/vite/646CFF" width="26" alt="Vite" />
+      </p>
       <a href="https://github.com/ashjanalajeeli/yani-follow-projects">↗ استكشف المشروع</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Marketing</h3>
+      <p>مشروع محتوى وتوثيق تسويقي منظّم بهوية بصرية هادئة وتسلسل واضح.</p>
+      <p><strong>الأدوات المستخدمة</strong></p>
+      <p>
+        <img src="https://cdn.simpleicons.org/markdown/FFFFFF" width="26" alt="Markdown" />
+        <img src="https://cdn.simpleicons.org/github/E6EDF3" width="26" alt="GitHub" />
+        <img src="https://cdn.simpleicons.org/figma/F24E1E" width="26" alt="Figma" />
+      </p>
+      <a href="https://github.com/ashjanalajeeli/marketing">↗ استكشف المشروع</a>
     </td>
   </tr>
 </table>
 
 <div dir="rtl" align="right">
 
-## 04 / التعلّم بالأرقام
+## 04 / التطبيقات
+
+تطبيقات الهاتف والمنصات المستهدفة.
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ashjanalajeeli/ekfalninew"><img src="./assets/projects/ekfalni-home-phone.png" alt="واجهة تطبيق Ekfalni للكفالة والتبرعات" width="100%" /></a>
+      <h3>Ekfalni</h3>
+      <p>تطبيق لإدارة كفالة الأيتام والتبرعات، مع دعم العربية والإنجليزية وتجربة استخدام واضحة.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&amp;logo=android&amp;logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/iOS-111111?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="iOS" />
+      </p>
+      <p><strong>الأدوات المستخدمة</strong></p>
+      <p>
+        <img src="https://cdn.simpleicons.org/flutter/55B8F5" width="26" alt="Flutter" />
+        <img src="https://cdn.simpleicons.org/dart/55B8F5" width="26" alt="Dart" />
+        <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="26" alt="Firebase" />
+        <img src="https://cdn.simpleicons.org/dio/7F52FF" width="26" alt="Dio" />
+        <img src="https://cdn.simpleicons.org/riverpod/3D7FFF" width="26" alt="Riverpod" />
+      </p>
+      <a href="https://github.com/ashjanalajeeli/ekfalninew">↗ استكشف المشروع</a>
+    </td>
+  </tr>
+</table>
+
+<div dir="rtl" align="right">
+
+## 05 / التعلّم بالأرقام
 
 </div>
 
@@ -96,7 +136,7 @@
 
 <div dir="rtl" align="right">
 
-## 05 / لنتواصل
+## 06 / لنتواصل
 
 </div>
 
