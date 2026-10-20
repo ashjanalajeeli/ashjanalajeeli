@@ -93,6 +93,21 @@
       <a href="https://github.com/ashjanalajeeli/marketing">↗ استكشف المشروع</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ashjanalajeeli/ekfalninew"><img src="./assets/projects/ekfalni-home-phone.png" alt="منصة Ekfalni للكفالة والتبرعات" width="100%" /></a>
+      <h3>Ekfalni Platform</h3>
+      <p>منصة رقمية لإدارة كفالة الأيتام والتبرعات، تربط بين المبادرات والمستفيدين وتجعل تجربة الدعم أوضح وأسهل.</p>
+      <p><strong>الأدوات المستخدمة</strong></p>
+      <p>
+        <img src="https://cdn.simpleicons.org/flutter/55B8F5" width="26" alt="Flutter" />
+        <img src="https://cdn.simpleicons.org/dart/55B8F5" width="26" alt="Dart" />
+        <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="26" alt="Firebase" />
+        <img src="https://cdn.simpleicons.org/riverpod/3D7FFF" width="26" alt="Riverpod" />
+      </p>
+      <a href="https://github.com/ashjanalajeeli/ekfalninew">↗ استكشف المنصة</a>
+    </td>
+  </tr>
 </table>
 
 <div dir="rtl" align="right">
