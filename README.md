@@ -1,79 +1,119 @@
-<div align="center">
+<div dir="rtl" align="right">
 
-<img src="./assets/profile-hero.svg" alt="رسم تقني تجريدي بنفسجي داكن يعكس التصميم وتطوير التطبيقات" width="100%" />
+<img src="./assets/profile-hero.svg" alt="أشجان العجيلي — Flutter و UI/UX" width="100%" />
+
+</div>
+
+<div dir="rtl" align="right">
 
 # أشجان العجيلي
 
-### مطوّرة Flutter & Dart · مصمّمة UI/UX
+### `@ashjanalajeeli`
 
-أصمّم واجهات واضحة وأطوّر تجارب رقمية للويب والهواتف، مع اهتمام بالتفاصيل واتساق التجربة من الفكرة إلى المنتج.
+**Flutter & Dart Developer · UI/UX Designer**
 
-![Flutter & Dart](https://img.shields.io/badge/FLUTTER-DART-8B5CF6?style=flat-square&logo=flutter&logoColor=white&labelColor=17131F)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-DESIGN-8B5CF6?style=flat-square&logo=figma&logoColor=white&labelColor=17131F)
-![Web & Mobile](https://img.shields.io/badge/WEB-MOBILE-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white&labelColor=17131F)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-17131F?style=flat-square&logo=github&logoColor=C4B5FD)](https://github.com/ashjanalajeeli)
-[![Instagram](https://img.shields.io/badge/Instagram-ashjan-17131F?style=flat-square&logo=instagram&logoColor=C4B5FD)](https://instagram.com/yani9.8.0)
-[![Medium](https://img.shields.io/badge/Medium-Articles-17131F?style=flat-square&logo=medium&logoColor=C4B5FD)](https://medium.com/@Ashjanalajeeli)
-[![Email](https://img.shields.io/badge/Email-Contact-17131F?style=flat-square&logo=gmail&logoColor=C4B5FD)](mailto:ashjanalajeeli123@gmail.com)
-
-[![عرض المشاريع](https://img.shields.io/badge/VIEW-PROJECTS-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=17131F)](#04--مشاريعي)
+أصمّم واجهات واضحة وأطوّر تجارب رقمية للويب والهواتف، من الفكرة الأولى إلى منتج متناسق وسهل الاستخدام.
 
 </div>
 
+<p align="right">
+  <a href="#01--نبذة"><img src="https://img.shields.io/badge/ABOUT-8B5CF6?style=for-the-badge&labelColor=17131F&logo=readme&logoColor=FFFFFF" alt="About" /></a>
+  <a href="#02--المكدس-التقني"><img src="https://img.shields.io/badge/TECH%20STACK-17131F?style=for-the-badge&logo=stackblitz&logoColor=C4B5FD" alt="Tech Stack" /></a>
+  <a href="#03--مشاريع-مختارة"><img src="https://img.shields.io/badge/PROJECTS-17131F?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Projects" /></a>
+  <a href="#04--لنتواصل"><img src="https://img.shields.io/badge/CONTACT-17131F?style=for-the-badge&logo=minutemailer&logoColor=C4B5FD" alt="Contact" /></a>
+</p>
+
 ---
+
+<div dir="rtl" align="right">
 
 ## 01 / نبذة
 
-أجمع بين التصميم والبرمجة لبناء واجهات وتجارب استخدام عملية وهادئة. أعمل على تطبيقات **Flutter** للويب والهواتف، وأستخدم أدوات التصميم لتحويل الأفكار إلى منتجات رقمية متناسقة.
+أجمع بين التصميم والبرمجة لبناء واجهات هادئة وتجارب استخدام عملية. أركّز على تطبيقات **Flutter** للويب والهواتف، وأحوّل الأفكار إلى منتجات رقمية متناسقة بصريًا ووظيفيًا.
 
-## 02 / المهارات التقنية
-
-- **Flutter & Dart:** `Flutter` · `Dart` · `Provider` · `Riverpod` · `GetX`
-- **تطوير الويب:** `HTML` · `CSS` · `JavaScript` · `React` · `Node.js`
-- **البيانات وواجهات API:** `Firebase` · `REST APIs` · `SQLite` · `MySQL`
-- **التصميم:** `Figma` · `Adobe XD` · `Canva` · `UI/UX`
-- **أدوات العمل:** `Git` · `GitHub` · `VS Code`
-
-## 03 / التعلّم بالأرقام
-
-**33 درسًا مسجّلًا** عبر المسارات التالية:
-
-- ![HTML · 19 درسًا](https://img.shields.io/badge/HTML-19-8B5CF6?style=flat-square&logo=html5&logoColor=white&labelColor=17131F) `██████████`
-- ![SQL · 7 دروس](https://img.shields.io/badge/SQL-7-8B5CF6?style=flat-square&logo=mysql&logoColor=white&labelColor=17131F) `████░░░░░░`
-- ![Bootstrap · 4 دروس](https://img.shields.io/badge/Bootstrap-4-8B5CF6?style=flat-square&logo=bootstrap&logoColor=white&labelColor=17131F) `██░░░░░░░░`
-- ![Python · 3 دروس](https://img.shields.io/badge/Python-3-8B5CF6?style=flat-square&logo=python&logoColor=white&labelColor=17131F) `██░░░░░░░░`
-
-> الأشرطة تقارن أعداد الدروس المسجّلة في هذه القائمة فقط؛ ولا تعبّر عن نسبة إكمال المنهج أو مستوى الإتقان.
-
-## 04 / مشاريعي
-
-### Ekfalni — تطبيق الكفالة والتبرعات
-
-<div align="center">
-  <a href="https://github.com/ashjanalajeeli/ekfalninew">
-    <img src="./assets/projects/ekfalni-home-phone.png" alt="لقطة فعلية للواجهة الرئيسية لتطبيق Ekfalni على الهاتف" width="260" />
-  </a>
-  <br />
-  <strong>واجهة الهاتف</strong>
 </div>
 
-> معاينة الهاتف ملتقطة من واجهة Flutter الفعلية؛ يفتح النقر على الصورة مستودع Ekfalni، إذ لا يوجد رابط تطبيق منشور.
+<div dir="rtl" align="right">
 
-### Marketing
+## 02 / المكدس التقني
+
+أدوات وتقنيات أعمل بها في التصميم، التطوير، والبيانات.
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="10%"><img src="https://cdn.simpleicons.org/flutter/55B8F5" width="36" alt="Flutter" /><br /><sub>Flutter</sub></td>
+    <td align="center" width="10%"><img src="https://cdn.simpleicons.org/dart/55B8F5" width="36" alt="Dart" /><br /><sub>Dart</sub></td>
+    <td align="center" width="10%"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" alt="Firebase" /><br /><sub>Firebase</sub></td>
+    <td align="center" width="10%"><img src="https://cdn.simpleicons.org/openapi/8B9DFF" width="36" alt="REST APIs" /><br /><sub>REST APIs</sub></td>
+    <td align="center" width="10%"><img src="https://cdn.simpleicons.org/sqlite/8B9DFF" width="36" alt="SQLite" /><br /><sub>SQLite</sub></td>
+    <td align="center" width="10%"><img src="https://cdn.simpleicons.org/mysql/4E9CCB" width="36" alt="MySQL" /><br /><sub>MySQL</sub></td>
+    <td align="center" width="10%"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="36" alt="Figma" /><br /><sub>Figma</sub></td>
+    <td align="center" width="10%"><img src="https://cdn.simpleicons.org/git/F05032" width="36" alt="Git" /><br /><sub>Git</sub></td>
+    <td align="center" width="10%"><img src="https://cdn.simpleicons.org/github/E6EDF3" width="36" alt="GitHub" /><br /><sub>GitHub</sub></td>
+    <td align="center" width="10%"><img src="https://cdn.simpleicons.org/visualstudiocode/3EA6E8" width="36" alt="VS Code" /><br /><sub>VS Code</sub></td>
+  </tr>
+</table>
+
+<div dir="rtl" align="right">
+
+## 03 / مشاريع مختارة
+
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/ashjanalajeeli/ekfalninew"><img src="./assets/projects/ekfalni-home-phone.png" alt="Ekfalni — تطبيق الكفالة والتبرعات" width="100%" /></a>
+      <h3>Ekfalni</h3>
+      <p>تطبيق Flutter للكفالة والتبرعات، بواجهة تركّز على الوضوح وسهولة الوصول للمبادرات.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>UI/UX</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Marketing</h3>
+      <p>مساحة توثيق ومحتوى تسويقي منظّمة بهوية بصرية هادئة، مع اهتمام بالتسلسل والوضوح.</p>
+      <p><code>Content</code> <code>Design</code> <code>README</code></p>
+      <a href="https://github.com/ashjanalajeeli/marketing">↗ استكشف المشروع</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>المشاريع القادمة</h3>
+      <p>أعمل على تجارب جديدة تجمع بين تطبيقات الهاتف، الواجهات العملية، والتفاصيل البصرية المدروسة.</p>
+      <p><code>Build</code> <code>Design</code> <code>Improve</code></p>
+    </td>
+  </tr>
+</table>
+
+<div dir="rtl" align="right">
+
+## 04 / التعلّم بالأرقام
+
+</div>
+
+<p align="center"><img src="./assets/progress-dashboard.svg" alt="لوحة المهارات ومسارات التعلّم — 33 درسًا" width="100%" /></p>
+
+<div dir="rtl" align="right">
+
+## 05 / لنتواصل
+
+</div>
+
+<table>
+  <tr>
+    <td valign="middle" width="70%">
+      <strong>هل لديك فكرة أو فرصة تعاون؟</strong><br />
+      <sub>أنا منفتحة على الفرص الجديدة، التعاونات، والأفكار الممتعة.</sub>
+    </td>
+    <td align="right" valign="middle" width="30%">
+      <a href="mailto:ashjanalajeeli123@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-8B5CF6?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=17131F" alt="Contact me" /></a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/ashjanalajeeli/marketing">
-    <img src="https://img.shields.io/badge/Marketing-README-8B5CF6?style=for-the-badge&amp;logo=markdown&amp;logoColor=C4B5FD&amp;labelColor=17131F" alt="بطاقة مشروع Marketing — README" />
-  </a>
+  <a href="https://instagram.com/yani9.8.0"><img src="https://img.shields.io/badge/Instagram-17131F?style=flat-square&logo=instagram&logoColor=C4B5FD" alt="Instagram" /></a>
+  <a href="https://medium.com/@Ashjanalajeeli"><img src="https://img.shields.io/badge/Medium-17131F?style=flat-square&logo=medium&logoColor=C4B5FD" alt="Medium" /></a>
+  <a href="https://github.com/ashjanalajeeli"><img src="https://img.shields.io/badge/GitHub-17131F?style=flat-square&logo=github&logoColor=C4B5FD" alt="GitHub" /></a>
 </p>
 
-<p align="center"><sub>مستودع التوثيق (README) فقط؛ لا توجد واجهة تطبيق منشورة لمعاينتها.</sub></p>
-
----
-
-<div align="center">
-
-*تفاصيل مدروسة · واجهات هادئة · تجارب رقمية متناسقة*
-
-</div>
+<p align="center"><sub>تفاصيل مدروسة · واجهات هادئة · تجارب رقمية متناسقة</sub></p>
