@@ -77,6 +77,7 @@
       <a href="https://github.com/ashjanalajeeli/marketing">↗ استكشف المشروع</a>
     </td>
     <td width="33%" valign="top">
+      <a href="https://github.com/ashjanalajeeli/yani-follow-projects"><img src="./assets/projects/yani-interface.jpg" alt="واجهة منصة Yani لإدارة وتحليل مشاريع البرمجة" width="100%" /></a>
       <h3>Yani</h3>
       <p>منصة ذكية لإدارة مشاريع البرمجة، تحوّل فكرة المشروع وملفاته إلى تحليل وRoadmap ومهام قابلة للتنفيذ.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>AI</code></p>
