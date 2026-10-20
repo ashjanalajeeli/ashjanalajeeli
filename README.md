@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ashjanalajeeli/ekfalninew"><img src="./assets/projects/ekfalni-home-phone.png" alt="منصة Ekfalni للكفالة والتبرعات" width="100%" /></a>
+      <a href="https://github.com/ashjanalajeeli/ekfalninew"><img src="./assets/projects/ekfalni-platform-cover.png" alt="غلاف منصة Ekfalni للكفالة والتبرعات" width="100%" /></a>
       <h3>Ekfalni Platform</h3>
       <p>منصة رقمية لإدارة كفالة الأيتام والتبرعات، تربط بين المبادرات والمستفيدين وتجعل تجربة الدعم أوضح وأسهل.</p>
       <p><strong>الأدوات المستخدمة</strong></p>
