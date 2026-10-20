@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" role="img" aria-labelledby="title desc">
+  <title id="title">شعار أشجان العجيلي</title>
+  <desc id="desc">حرف A بنفسجي داخل دائرة تقنية داكنة</desc>
+  <defs>
+    <radialGradient id="bg" cx="35%" cy="25%" r="90%">
+      <stop stop-color="#2b1d57"/>
+      <stop offset="0.58" stop-color="#11152b"/>
+      <stop offset="1" stop-color="#070b16"/>
+    </radialGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ddd6fe"/>
+      <stop offset="0.45" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#5b21b6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <circle cx="110" cy="110" r="102" fill="url(#bg)" stroke="#8b5cf6" stroke-opacity=".48" stroke-width="2"/>
+  <circle cx="110" cy="110" r="78" fill="none" stroke="#a78bfa" stroke-opacity=".2"/>
+  <circle cx="110" cy="110" r="91" fill="none" stroke="#c4b5fd" stroke-opacity=".12" stroke-dasharray="2 10"/>
+  <path d="M42 168c42-25 89-21 136-3" fill="none" stroke="#8b5cf6" stroke-opacity=".28"/>
+  <g fill="none" stroke="url(#violet)" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <path d="M68 157 104 60l38 97M82 121h45" stroke-width="9"/>
+    <path d="m108 157 31-97 34 97m-51-38h40" stroke-width="8" opacity=".82"/>
+  </g>
+  <circle cx="104" cy="60" r="5" fill="#ede9fe"/>
+  <circle cx="139" cy="60" r="5" fill="#a78bfa"/>
+  <circle cx="178" cy="143" r="6" fill="#8b5cf6"/>
+</svg>
